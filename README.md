@@ -1,6 +1,6 @@
 # Variational Autoencoder with TensorFlow 2
 
-Works using a python (3.7 or 3.8) environment with the following packages: 
+Works using a python 3.7.9 environment (3.8 should be fine too) with the following packages: 
 
 tensorflow==2.2.0 matplotlib scipy==1.4.1 graphviz pydot pandas jupyterlab imageio .
 
